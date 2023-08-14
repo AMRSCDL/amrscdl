@@ -1,6 +1,8 @@
 # 👨‍💻 About Me:
 Hello, I'm Emir. I am a Management Information Systems graduate. I am interested about Information and Technology. I aim to specialize in Python, which I started writing at university, and Java, which I am currently learning. After the Google Project Management courses I took thanks to the Google Game and Application Academy I completed, I realized that I had an interest and aptitude for project management. I like to travel, develop games on my own, watch movies, and experience new technologies.
 
+![giphy](https://github.com/AMRSCDL/amrscdl/assets/100695177/8ddfe573-e063-498e-b7af-5e6333a43eba)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-emir-demirtas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22304542) 
@@ -10,7 +12,7 @@ Hello, I'm Emir. I am a Management Information Systems graduate. I am interested
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AMRSCDL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AMRSCDL&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMRSCDL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AMRSCDL&icon=0&color=0)](https://visitcount.itsvg.in)
