@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Hello, I'm Emir. I am a Management Information Systems graduate. I am interested about Information and Technology. I aim to specialize in Python, which I started writing at university, and Java, which I am currently learning. After the Google Project Management courses I took thanks to the Google Game and Application Academy I completed, I realized that I had an interest and aptitude for project management. I like to travel, develop games on my own, watch movies, and experience new technologies.
+Hello, I'm Emir. I am a Management Information Systems graduate. I am interested in Information and Technology. I aim to specialize in Python and Java languages ​​and I am developing myself in this direction. I like to travel, develop games on my own, watch movies, experience new technologies.
 
 ![giphy](https://github.com/AMRSCDL/amrscdl/assets/100695177/8ddfe573-e063-498e-b7af-5e6333a43eba)
 
