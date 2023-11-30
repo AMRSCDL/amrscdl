@@ -2,8 +2,7 @@
 Hello, I'm Emir. I am a Management Information Systems graduate. I am interested in Information and Technology. I aim to specialize in Python and Java languages ​​and I am developing myself in this direction. I like to travel, develop games on my own, watch movies, experience new technologies.
 
 ![giphy](https://github.com/AMRSCDL/amrscdl/assets/100695177/8ddfe573-e063-498e-b7af-5e6333a43eba)
-- [My Java 101 Examples](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-101)
-- [My Java 102 Examples](https://github.com/AMRSCDL/KodluyoruzExamples/tree/main/Java-102)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-emir-demirtas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22304542) 
